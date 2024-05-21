@@ -1,0 +1,3615 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8fe59be9126e4c23a5fed6d91417031, type: 3}
+  m_Name: AIRank
+  m_EditorClassIdentifier: 
+  rankDataList:
+  - rankID: 1
+    userName: Matt
+    score: 99903
+  - rankID: 2
+    userName: player2023593065
+    score: 98738
+  - rankID: 3
+    userName: In
+    score: 98700
+  - rankID: 4
+    userName: player202349746
+    score: 98674
+  - rankID: 5
+    userName: Nelson
+    score: 98523
+  - rankID: 6
+    userName: Kristen
+    score: 98387
+  - rankID: 7
+    userName: player2022237978
+    score: 98126
+  - rankID: 8
+    userName: Vicki
+    score: 98081
+  - rankID: 9
+    userName: player2022535543
+    score: 97951
+  - rankID: 10
+    userName: player202376466
+    score: 97931
+  - rankID: 11
+    userName: Leticia
+    score: 97575
+  - rankID: 12
+    userName: Willie
+    score: 96607
+  - rankID: 13
+    userName: Mario
+    score: 96534
+  - rankID: 14
+    userName: player2021893506
+    score: 96463
+  - rankID: 15
+    userName: Mino
+    score: 95762
+  - rankID: 16
+    userName: Travis
+    score: 95444
+  - rankID: 17
+    userName: Ecojet
+    score: 94905
+  - rankID: 18
+    userName: Dlue
+    score: 94415
+  - rankID: 19
+    userName: Dragon
+    score: 94180
+  - rankID: 20
+    userName: Kristie
+    score: 93702
+  - rankID: 21
+    userName: Jenny
+    score: 93689
+  - rankID: 22
+    userName: Cross
+    score: 93465
+  - rankID: 23
+    userName: player2023534727
+    score: 92598
+  - rankID: 24
+    userName: Esther
+    score: 92521
+  - rankID: 25
+    userName: Jon
+    score: 92222
+  - rankID: 26
+    userName: Eternal
+    score: 91709
+  - rankID: 27
+    userName: Virgil
+    score: 91692
+  - rankID: 28
+    userName: Lyle
+    score: 91454
+  - rankID: 29
+    userName: Lovedearly
+    score: 91441
+  - rankID: 30
+    userName: player20217353
+    score: 91241
+  - rankID: 31
+    userName: player2022209541
+    score: 89564
+  - rankID: 32
+    userName: player2023955160
+    score: 89334
+  - rankID: 33
+    userName: player2023555364
+    score: 89073
+  - rankID: 34
+    userName: Abraham
+    score: 88819
+  - rankID: 35
+    userName: player2021368880
+    score: 88524
+  - rankID: 36
+    userName: Sharon
+    score: 88236
+  - rankID: 37
+    userName: Sudoko
+    score: 88222
+  - rankID: 38
+    userName: Neilyo
+    score: 88055
+  - rankID: 39
+    userName: Kingdom
+    score: 87690
+  - rankID: 40
+    userName: player202155407
+    score: 86723
+  - rankID: 41
+    userName: player2023767575
+    score: 86099
+  - rankID: 42
+    userName: mustard
+    score: 84738
+  - rankID: 43
+    userName: Warren
+    score: 84306
+  - rankID: 44
+    userName: Bigbo
+    score: 83013
+  - rankID: 45
+    userName: player2022828906
+    score: 82487
+  - rankID: 46
+    userName: Kim
+    score: 82088
+  - rankID: 47
+    userName: Otherworldly
+    score: 81864
+  - rankID: 48
+    userName: player2021258695
+    score: 80921
+  - rankID: 49
+    userName: Paula
+    score: 80850
+  - rankID: 50
+    userName: Evan
+    score: 79821
+  - rankID: 51
+    userName: Softsister
+    score: 79253
+  - rankID: 52
+    userName: Yandere
+    score: 79248
+  - rankID: 53
+    userName: Terrell
+    score: 78769
+  - rankID: 54
+    userName: Charlie
+    score: 78738
+  - rankID: 55
+    userName: Cecelia
+    score: 78039
+  - rankID: 56
+    userName: Patrick
+    score: 77749
+  - rankID: 57
+    userName: Sniper
+    score: 76526
+  - rankID: 58
+    userName: player2023651364
+    score: 75924
+  - rankID: 59
+    userName: pretext
+    score: 75409
+  - rankID: 60
+    userName: Arturo
+    score: 75311
+  - rankID: 61
+    userName: Beulah
+    score: 74441
+  - rankID: 62
+    userName: Infatuation
+    score: 74359
+  - rankID: 63
+    userName: player2021677503
+    score: 74220
+  - rankID: 64
+    userName: Carlos
+    score: 74169
+  - rankID: 65
+    userName: Rosa
+    score: 74105
+  - rankID: 66
+    userName: Slient
+    score: 73411
+  - rankID: 67
+    userName: player2023242652
+    score: 73156
+  - rankID: 68
+    userName: Tomas
+    score: 72919
+  - rankID: 69
+    userName: Gabriel
+    score: 72631
+  - rankID: 70
+    userName: Kim
+    score: 72111
+  - rankID: 71
+    userName: Katrina
+    score: 72011
+  - rankID: 72
+    userName: player2021969185
+    score: 71324
+  - rankID: 73
+    userName: Jean
+    score: 71244
+  - rankID: 74
+    userName: Evileyes
+    score: 70981
+  - rankID: 75
+    userName: Woodrow
+    score: 70668
+  - rankID: 76
+    userName: Emanuel
+    score: 70043
+  - rankID: 77
+    userName: player2023385977
+    score: 69432
+  - rankID: 78
+    userName: Alfonso
+    score: 69343
+  - rankID: 79
+    userName: Charm
+    score: 69271
+  - rankID: 80
+    userName: player2021476660
+    score: 68944
+  - rankID: 81
+    userName: Candace
+    score: 68652
+  - rankID: 82
+    userName: player2021432159
+    score: 68144
+  - rankID: 83
+    userName: player2023992801
+    score: 68099
+  - rankID: 84
+    userName: player202365191
+    score: 67721
+  - rankID: 85
+    userName: Bigrikki
+    score: 67422
+  - rankID: 86
+    userName: Miranda
+    score: 66707
+  - rankID: 87
+    userName: Shdas
+    score: 66681
+  - rankID: 88
+    userName: Cornelius
+    score: 66663
+  - rankID: 89
+    userName: Adc
+    score: 66537
+  - rankID: 90
+    userName: Sadfg
+    score: 65799
+  - rankID: 91
+    userName: Dave
+    score: 65679
+  - rankID: 92
+    userName: Francis
+    score: 65469
+  - rankID: 93
+    userName: Minikaka
+    score: 64849
+  - rankID: 94
+    userName: Alfred
+    score: 63093
+  - rankID: 95
+    userName: player2022714001
+    score: 62961
+  - rankID: 96
+    userName: Sweetmail
+    score: 62559
+  - rankID: 97
+    userName: Flounder
+    score: 62101
+  - rankID: 98
+    userName: despair
+    score: 61404
+  - rankID: 99
+    userName: Carole
+    score: 60704
+  - rankID: 100
+    userName: Olbln
+    score: 59944
+  - rankID: 101
+    userName: Kendra
+    score: 59832
+  - rankID: 102
+    userName: Huffer
+    score: 59804
+  - rankID: 103
+    userName: Allan
+    score: 59490
+  - rankID: 104
+    userName: player2021191625
+    score: 59426
+  - rankID: 105
+    userName: player2022288970
+    score: 59319
+  - rankID: 106
+    userName: player2021509835
+    score: 59257
+  - rankID: 107
+    userName: Lynn
+    score: 59224
+  - rankID: 108
+    userName: player2022111676
+    score: 59154
+  - rankID: 109
+    userName: Ida
+    score: 58580
+  - rankID: 110
+    userName: Scar
+    score: 58533
+  - rankID: 111
+    userName: Rosemary
+    score: 58469
+  - rankID: 112
+    userName: Claude
+    score: 58450
+  - rankID: 113
+    userName: You
+    score: 58404
+  - rankID: 114
+    userName: Felxi
+    score: 58399
+  - rankID: 115
+    userName: player2022629214
+    score: 58334
+  - rankID: 116
+    userName: Pall
+    score: 58331
+  - rankID: 117
+    userName: Christy
+    score: 58279
+  - rankID: 118
+    userName: Clarence
+    score: 58264
+  - rankID: 119
+    userName: Nathaniel
+    score: 58128
+  - rankID: 120
+    userName: Wahaha
+    score: 58067
+  - rankID: 121
+    userName: Wqesadqq
+    score: 57734
+  - rankID: 122
+    userName: Wqfsafd
+    score: 57705
+  - rankID: 123
+    userName: Soledad
+    score: 57461
+  - rankID: 124
+    userName: Randall
+    score: 57371
+  - rankID: 125
+    userName: release
+    score: 57313
+  - rankID: 126
+    userName: Adsd
+    score: 57269
+  - rankID: 127
+    userName: Brittany
+    score: 57230
+  - rankID: 128
+    userName: Beginner
+    score: 57176
+  - rankID: 129
+    userName: Surging
+    score: 57142
+  - rankID: 130
+    userName: player2023259452
+    score: 57135
+  - rankID: 131
+    userName: Drakedog
+    score: 56830
+  - rankID: 132
+    userName: player2021545240
+    score: 56679
+  - rankID: 133
+    userName: Katherine
+    score: 56582
+  - rankID: 134
+    userName: player2022877127
+    score: 56523
+  - rankID: 135
+    userName: player2021191988
+    score: 56458
+  - rankID: 136
+    userName: Bradley
+    score: 56313
+  - rankID: 137
+    userName: Ignacio
+    score: 56131
+  - rankID: 138
+    userName: Salvador
+    score: 56057
+  - rankID: 139
+    userName: Moonlight
+    score: 56039
+  - rankID: 140
+    userName: Peter
+    score: 55967
+  - rankID: 141
+    userName: player202215726
+    score: 55919
+  - rankID: 142
+    userName: Conrad
+    score: 55896
+  - rankID: 143
+    userName: player2023445072
+    score: 55890
+  - rankID: 144
+    userName: Sheryl
+    score: 55855
+  - rankID: 145
+    userName: Ellis
+    score: 55792
+  - rankID: 146
+    userName: Cora
+    score: 55612
+  - rankID: 147
+    userName: Emmett
+    score: 55558
+  - rankID: 148
+    userName: Lester
+    score: 55501
+  - rankID: 149
+    userName: Marcia
+    score: 55231
+  - rankID: 150
+    userName: Wendell
+    score: 55204
+  - rankID: 151
+    userName: Homer
+    score: 55168
+  - rankID: 152
+    userName: player2021375976
+    score: 54906
+  - rankID: 153
+    userName: Abel
+    score: 54806
+  - rankID: 154
+    userName: player2021793687
+    score: 54400
+  - rankID: 155
+    userName: Rita
+    score: 54370
+  - rankID: 156
+    userName: player20232894
+    score: 54366
+  - rankID: 157
+    userName: Kelly
+    score: 54219
+  - rankID: 158
+    userName: player2021772009
+    score: 54216
+  - rankID: 159
+    userName: player2022697578
+    score: 54208
+  - rankID: 160
+    userName: Maybe
+    score: 54142
+  - rankID: 161
+    userName: Alading
+    score: 54038
+  - rankID: 162
+    userName: player2021921635
+    score: 53969
+  - rankID: 163
+    userName: Felix
+    score: 53875
+  - rankID: 164
+    userName: Shun
+    score: 53850
+  - rankID: 165
+    userName: release
+    score: 53816
+  - rankID: 166
+    userName: player2023824708
+    score: 53600
+  - rankID: 167
+    userName: Estelle
+    score: 53443
+  - rankID: 168
+    userName: Wus
+    score: 53251
+  - rankID: 169
+    userName: player2023772031
+    score: 53228
+  - rankID: 170
+    userName: Estrus
+    score: 53207
+  - rankID: 171
+    userName: Rockbaby
+    score: 52986
+  - rankID: 172
+    userName: player2022416272
+    score: 52853
+  - rankID: 173
+    userName: Liixuwei
+    score: 52842
+  - rankID: 174
+    userName: Oliver
+    score: 52826
+  - rankID: 175
+    userName: GIitter
+    score: 52815
+  - rankID: 176
+    userName: player202120448
+    score: 52692
+  - rankID: 177
+    userName: player2021595860
+    score: 52251
+  - rankID: 178
+    userName: Henry
+    score: 52227
+  - rankID: 179
+    userName: Magicgirl
+    score: 51904
+  - rankID: 180
+    userName: player2021231917
+    score: 51868
+  - rankID: 181
+    userName: player2021627804
+    score: 51700
+  - rankID: 182
+    userName: player2022604785
+    score: 51554
+  - rankID: 183
+    userName: Ttankk
+    score: 51488
+  - rankID: 184
+    userName: Alison
+    score: 51165
+  - rankID: 185
+    userName: Raigoj
+    score: 51150
+  - rankID: 186
+    userName: Redemption
+    score: 51130
+  - rankID: 187
+    userName: Lynda
+    score: 51126
+  - rankID: 188
+    userName: Crazy
+    score: 51048
+  - rankID: 189
+    userName: Heart
+    score: 51010
+  - rankID: 190
+    userName: Clc
+    score: 50985
+  - rankID: 191
+    userName: Seth
+    score: 50981
+  - rankID: 192
+    userName: Spencer
+    score: 50870
+  - rankID: 193
+    userName: player2022162991
+    score: 50835
+  - rankID: 194
+    userName: Geoffrey
+    score: 50790
+  - rankID: 195
+    userName: player2022331933
+    score: 50703
+  - rankID: 196
+    userName: Lance
+    score: 50576
+  - rankID: 197
+    userName: Nightwoman
+    score: 50498
+  - rankID: 198
+    userName: Too
+    score: 50360
+  - rankID: 199
+    userName: Monster
+    score: 50013
+  - rankID: 200
+    userName: Kook
+    score: 49317
+  - rankID: 201
+    userName: Juan
+    score: 49233
+  - rankID: 202
+    userName: Casey
+    score: 48963
+  - rankID: 203
+    userName: Zizizi
+    score: 48765
+  - rankID: 204
+    userName: player2023594255
+    score: 48724
+  - rankID: 205
+    userName: player2021260794
+    score: 48723
+  - rankID: 206
+    userName: Steven
+    score: 48721
+  - rankID: 207
+    userName: player202396964
+    score: 48701
+  - rankID: 208
+    userName: player20226249
+    score: 48603
+  - rankID: 209
+    userName: Kelley
+    score: 48462
+  - rankID: 210
+    userName: Steve
+    score: 48184
+  - rankID: 211
+    userName: Moonlight
+    score: 48143
+  - rankID: 212
+    userName: Telas
+    score: 48123
+  - rankID: 213
+    userName: Linainverse
+    score: 47865
+  - rankID: 214
+    userName: Mike
+    score: 47824
+  - rankID: 215
+    userName: player202334881
+    score: 47682
+  - rankID: 216
+    userName: Elk
+    score: 47645
+  - rankID: 217
+    userName: Bobby
+    score: 47449
+  - rankID: 218
+    userName: Youhavechanged
+    score: 47336
+  - rankID: 219
+    userName: Marlene
+    score: 47218
+  - rankID: 220
+    userName: Van
+    score: 47204
+  - rankID: 221
+    userName: Clara
+    score: 47111
+  - rankID: 222
+    userName: player2022958079
+    score: 46978
+  - rankID: 223
+    userName: Arthur
+    score: 46937
+  - rankID: 224
+    userName: player2022659281
+    score: 46903
+  - rankID: 225
+    userName: Leli
+    score: 46875
+  - rankID: 226
+    userName: prejudice
+    score: 46778
+  - rankID: 227
+    userName: Delores
+    score: 46653
+  - rankID: 228
+    userName: Raymond
+    score: 46605
+  - rankID: 229
+    userName: player2023149824
+    score: 46414
+  - rankID: 230
+    userName: Cecilia
+    score: 46287
+  - rankID: 231
+    userName: player2021151159
+    score: 46137
+  - rankID: 232
+    userName: Erwter
+    score: 45931
+  - rankID: 233
+    userName: player20222592
+    score: 45840
+  - rankID: 234
+    userName: player2023242653
+    score: 45826
+  - rankID: 235
+    userName: Kristin
+    score: 45474
+  - rankID: 236
+    userName: George
+    score: 45439
+  - rankID: 237
+    userName: Chad
+    score: 45351
+  - rankID: 238
+    userName: Jm
+    score: 45319
+  - rankID: 239
+    userName: Uio
+    score: 45231
+  - rankID: 240
+    userName: player2022179501
+    score: 45155
+  - rankID: 241
+    userName: Bamboo
+    score: 45018
+  - rankID: 242
+    userName: Melth
+    score: 44994
+  - rankID: 243
+    userName: Defy
+    score: 44825
+  - rankID: 244
+    userName: player2023510801
+    score: 44796
+  - rankID: 245
+    userName: player2022819807
+    score: 44703
+  - rankID: 246
+    userName: player2023357806
+    score: 44690
+  - rankID: 247
+    userName: Floating
+    score: 44624
+  - rankID: 248
+    userName: player2021626651
+    score: 44618
+  - rankID: 249
+    userName: player2023896400
+    score: 44599
+  - rankID: 250
+    userName: player2022167162
+    score: 44426
+  - rankID: 251
+    userName: Pearl
+    score: 44401
+  - rankID: 252
+    userName: Lana
+    score: 44328
+  - rankID: 253
+    userName: Moon
+    score: 44113
+  - rankID: 254
+    userName: player2021700477
+    score: 44099
+  - rankID: 255
+    userName: player2021778163
+    score: 43959
+  - rankID: 256
+    userName: Derek
+    score: 43878
+  - rankID: 257
+    userName: Becauseoflove
+    score: 43860
+  - rankID: 258
+    userName: player202228670
+    score: 43431
+  - rankID: 259
+    userName: player2023599768
+    score: 43382
+  - rankID: 260
+    userName: Genevieve
+    score: 43328
+  - rankID: 261
+    userName: Helen
+    score: 43321
+  - rankID: 262
+    userName: Julian
+    score: 43227
+  - rankID: 263
+    userName: Lorena
+    score: 43211
+  - rankID: 264
+    userName: Josh
+    score: 43200
+  - rankID: 265
+    userName: Zaz
+    score: 43086
+  - rankID: 266
+    userName: Mae
+    score: 43068
+  - rankID: 267
+    userName: Uncleli
+    score: 43020
+  - rankID: 268
+    userName: player2023125123
+    score: 43018
+  - rankID: 269
+    userName: SailorMoon
+    score: 42823
+  - rankID: 270
+    userName: Kate
+    score: 42799
+  - rankID: 271
+    userName: player2023289589
+    score: 42786
+  - rankID: 272
+    userName: Lorraine
+    score: 42706
+  - rankID: 273
+    userName: Fernando
+    score: 42650
+  - rankID: 274
+    userName: player2022598632
+    score: 42479
+  - rankID: 275
+    userName: player2023558192
+    score: 42356
+  - rankID: 276
+    userName: William
+    score: 42178
+  - rankID: 277
+    userName: Amber
+    score: 41946
+  - rankID: 278
+    userName: Benjamin
+    score: 41838
+  - rankID: 279
+    userName: Rogelio
+    score: 41836
+  - rankID: 280
+    userName: Star
+    score: 41189
+  - rankID: 281
+    userName: Bill
+    score: 41148
+  - rankID: 282
+    userName: Affair
+    score: 41003
+  - rankID: 283
+    userName: Della
+    score: 41002
+  - rankID: 284
+    userName: player2021974454
+    score: 40947
+  - rankID: 285
+    userName: Beginner
+    score: 40853
+  - rankID: 286
+    userName: Soko
+    score: 40844
+  - rankID: 287
+    userName: Larry
+    score: 40736
+  - rankID: 288
+    userName: Greg
+    score: 40720
+  - rankID: 289
+    userName: player2022651769
+    score: 40698
+  - rankID: 290
+    userName: solomemory
+    score: 40522
+  - rankID: 291
+    userName: Kenny
+    score: 40521
+  - rankID: 292
+    userName: Melody
+    score: 40379
+  - rankID: 293
+    userName: Magicgirl
+    score: 40313
+  - rankID: 294
+    userName: Rosalie
+    score: 40308
+  - rankID: 295
+    userName: Vickie
+    score: 40307
+  - rankID: 296
+    userName: rostiute
+    score: 40287
+  - rankID: 297
+    userName: Ella
+    score: 40257
+  - rankID: 298
+    userName: Marsha
+    score: 40219
+  - rankID: 299
+    userName: Heh
+    score: 40100
+  - rankID: 300
+    userName: Darrin
+    score: 39933
+  - rankID: 301
+    userName: player2021922562
+    score: 39902
+  - rankID: 302
+    userName: Maxine
+    score: 39833
+  - rankID: 303
+    userName: Cynthia
+    score: 39808
+  - rankID: 304
+    userName: player2021785204
+    score: 39783
+  - rankID: 305
+    userName: player2021810399
+    score: 39766
+  - rankID: 306
+    userName: Charles
+    score: 39720
+  - rankID: 307
+    userName: Fredrick
+    score: 39630
+  - rankID: 308
+    userName: player2022961230
+    score: 39612
+  - rankID: 309
+    userName: player202334209
+    score: 39536
+  - rankID: 310
+    userName: player2022527187
+    score: 39520
+  - rankID: 311
+    userName: Lloyd
+    score: 39518
+  - rankID: 312
+    userName: Savior
+    score: 39464
+  - rankID: 313
+    userName: Seth
+    score: 39332
+  - rankID: 314
+    userName: Wallace
+    score: 39295
+  - rankID: 315
+    userName: player202224685
+    score: 39288
+  - rankID: 316
+    userName: player2023980276
+    score: 39253
+  - rankID: 317
+    userName: player2023963823
+    score: 39105
+  - rankID: 318
+    userName: Budeliao
+    score: 39099
+  - rankID: 319
+    userName: Owen
+    score: 39069
+  - rankID: 320
+    userName: Weiyi
+    score: 39033
+  - rankID: 321
+    userName: Pellet
+    score: 38984
+  - rankID: 322
+    userName: Ac
+    score: 38951
+  - rankID: 323
+    userName: Rewind
+    score: 38948
+  - rankID: 324
+    userName: Low
+    score: 38912
+  - rankID: 325
+    userName: player2021990815
+    score: 38874
+  - rankID: 326
+    userName: Ympa
+    score: 38852
+  - rankID: 327
+    userName: Kellie
+    score: 38735
+  - rankID: 328
+    userName: Camille
+    score: 38735
+  - rankID: 329
+    userName: Asdsad
+    score: 38707
+  - rankID: 330
+    userName: Ann
+    score: 38705
+  - rankID: 331
+    userName: player2023702676
+    score: 38600
+  - rankID: 332
+    userName: Sharon
+    score: 38538
+  - rankID: 333
+    userName: player2022422788
+    score: 38503
+  - rankID: 334
+    userName: Ashley
+    score: 38464
+  - rankID: 335
+    userName: IntheFlesh
+    score: 38427
+  - rankID: 336
+    userName: Jerome
+    score: 38427
+  - rankID: 337
+    userName: Rosa
+    score: 38381
+  - rankID: 338
+    userName: player2023860692
+    score: 38368
+  - rankID: 339
+    userName: Chelsea
+    score: 38367
+  - rankID: 340
+    userName: Frances
+    score: 38327
+  - rankID: 341
+    userName: Darryl
+    score: 38327
+  - rankID: 342
+    userName: Andre
+    score: 38246
+  - rankID: 343
+    userName: Beofnoimportance
+    score: 38193
+  - rankID: 344
+    userName: Sadie
+    score: 38189
+  - rankID: 345
+    userName: Edgar
+    score: 38091
+  - rankID: 346
+    userName: player2021920063
+    score: 38031
+  - rankID: 347
+    userName: Jeannette
+    score: 37955
+  - rankID: 348
+    userName: player202315465
+    score: 37838
+  - rankID: 349
+    userName: Moses
+    score: 37809
+  - rankID: 350
+    userName: Brad
+    score: 37776
+  - rankID: 351
+    userName: player2023353793
+    score: 37739
+  - rankID: 352
+    userName: player2021815546
+    score: 37606
+  - rankID: 353
+    userName: Sdfsd
+    score: 37583
+  - rankID: 354
+    userName: Miriam
+    score: 37567
+  - rankID: 355
+    userName: Claudia
+    score: 37551
+  - rankID: 356
+    userName: Coolbra
+    score: 37512
+  - rankID: 357
+    userName: Abcdef
+    score: 37500
+  - rankID: 358
+    userName: player2021750982
+    score: 37494
+  - rankID: 359
+    userName: Neithercandidate
+    score: 37384
+  - rankID: 360
+    userName: Oldtestament
+    score: 37340
+  - rankID: 361
+    userName: Jim
+    score: 37306
+  - rankID: 362
+    userName: Hras
+    score: 37284
+  - rankID: 363
+    userName: player2023832434
+    score: 37210
+  - rankID: 364
+    userName: Rrwe
+    score: 37149
+  - rankID: 365
+    userName: player2022338640
+    score: 37147
+  - rankID: 366
+    userName: Fkull
+    score: 37074
+  - rankID: 367
+    userName: freak
+    score: 37000
+  - rankID: 368
+    userName: player2023195157
+    score: 36989
+  - rankID: 369
+    userName: player2021544933
+    score: 36877
+  - rankID: 370
+    userName: Georgia
+    score: 36739
+  - rankID: 371
+    userName: RedDress
+    score: 36731
+  - rankID: 372
+    userName: player202275982
+    score: 36628
+  - rankID: 373
+    userName: Melanie
+    score: 36609
+  - rankID: 374
+    userName: player2022609922
+    score: 36605
+  - rankID: 375
+    userName: Joan
+    score: 36512
+  - rankID: 376
+    userName: Malcolm
+    score: 36463
+  - rankID: 377
+    userName: Maya
+    score: 36441
+  - rankID: 378
+    userName: player2021985834
+    score: 36425
+  - rankID: 379
+    userName: Tiffany
+    score: 36420
+  - rankID: 380
+    userName: Julio
+    score: 36419
+  - rankID: 381
+    userName: player2021926887
+    score: 36412
+  - rankID: 382
+    userName: player2023568230
+    score: 36339
+  - rankID: 383
+    userName: player2023699919
+    score: 36303
+  - rankID: 384
+    userName: Jose
+    score: 36273
+  - rankID: 385
+    userName: player2023807207
+    score: 36269
+  - rankID: 386
+    userName: Sergio
+    score: 36020
+  - rankID: 387
+    userName: Dsaassa
+    score: 35982
+  - rankID: 388
+    userName: player2021111329
+    score: 35959
+  - rankID: 389
+    userName: Catherine
+    score: 35604
+  - rankID: 390
+    userName: Bloodrogue
+    score: 35505
+  - rankID: 391
+    userName: Hubert
+    score: 35449
+  - rankID: 392
+    userName: player2022498790
+    score: 35406
+  - rankID: 393
+    userName: Michael
+    score: 35396
+  - rankID: 394
+    userName: Carmen
+    score: 35392
+  - rankID: 395
+    userName: player2023817122
+    score: 35364
+  - rankID: 396
+    userName: Missyouto
+    score: 35285
+  - rankID: 397
+    userName: Santiago
+    score: 35261
+  - rankID: 398
+    userName: Ddeell
+    score: 35243
+  - rankID: 399
+    userName: Clifford
+    score: 35174
+  - rankID: 400
+    userName: player202137439
+    score: 34923
+  - rankID: 401
+    userName: Lois
+    score: 34916
+  - rankID: 402
+    userName: player2022228525
+    score: 34880
+  - rankID: 403
+    userName: Frederick
+    score: 34874
+  - rankID: 404
+    userName: Eugene
+    score: 34851
+  - rankID: 405
+    userName: Elijah
+    score: 34765
+  - rankID: 406
+    userName: player2021937607
+    score: 34687
+  - rankID: 407
+    userName: player2021124388
+    score: 34614
+  - rankID: 408
+    userName: Megan
+    score: 34608
+  - rankID: 409
+    userName: devotion
+    score: 34536
+  - rankID: 410
+    userName: Pennypincher
+    score: 34411
+  - rankID: 411
+    userName: Hector
+    score: 34397
+  - rankID: 412
+    userName: Tj
+    score: 34386
+  - rankID: 413
+    userName: Dorothy
+    score: 34370
+  - rankID: 414
+    userName: player202357256
+    score: 34351
+  - rankID: 415
+    userName: player2023521454
+    score: 34298
+  - rankID: 416
+    userName: player2022620867
+    score: 34219
+  - rankID: 417
+    userName: Harvey
+    score: 34186
+  - rankID: 418
+    userName: Cheryl
+    score: 34182
+  - rankID: 419
+    userName: player2023352492
+    score: 34116
+  - rankID: 420
+    userName: Alberto
+    score: 34050
+  - rankID: 421
+    userName: Patricia
+    score: 33999
+  - rankID: 422
+    userName: Nathan
+    score: 33897
+  - rankID: 423
+    userName: player202322928
+    score: 33896
+  - rankID: 424
+    userName: player2022208769
+    score: 33860
+  - rankID: 425
+    userName: Neeru
+    score: 33811
+  - rankID: 426
+    userName: player2023487150
+    score: 33783
+  - rankID: 427
+    userName: player2021698212
+    score: 33771
+  - rankID: 428
+    userName: Wad
+    score: 33769
+  - rankID: 429
+    userName: Phil
+    score: 33692
+  - rankID: 430
+    userName: Fl
+    score: 33661
+  - rankID: 431
+    userName: Ruth
+    score: 33657
+  - rankID: 432
+    userName: Instinct
+    score: 33645
+  - rankID: 433
+    userName: player2022444714
+    score: 33619
+  - rankID: 434
+    userName: Da
+    score: 33524
+  - rankID: 435
+    userName: Leon
+    score: 33375
+  - rankID: 436
+    userName: Blessed
+    score: 33182
+  - rankID: 437
+    userName: player2021160554
+    score: 33170
+  - rankID: 438
+    userName: Kasite
+    score: 33113
+  - rankID: 439
+    userName: Pellet
+    score: 33002
+  - rankID: 440
+    userName: player2023613156
+    score: 32894
+  - rankID: 441
+    userName: Mabel
+    score: 32888
+  - rankID: 442
+    userName: Juststandbyme
+    score: 32810
+  - rankID: 443
+    userName: player2023839155
+    score: 32802
+  - rankID: 444
+    userName: player2023239562
+    score: 32746
+  - rankID: 445
+    userName: player2021981201
+    score: 32664
+  - rankID: 446
+    userName: Mentality
+    score: 32645
+  - rankID: 447
+    userName: player2021970880
+    score: 32396
+  - rankID: 448
+    userName: player2021817310
+    score: 32393
+  - rankID: 449
+    userName: Morris
+    score: 32371
+  - rankID: 450
+    userName: player2021264046
+    score: 32351
+  - rankID: 451
+    userName: Luis
+    score: 32328
+  - rankID: 452
+    userName: NightDrunk
+    score: 32299
+  - rankID: 453
+    userName: Mediv
+    score: 32258
+  - rankID: 454
+    userName: Otherworldly
+    score: 32257
+  - rankID: 455
+    userName: Jeanne
+    score: 32223
+  - rankID: 456
+    userName: Ruby
+    score: 32159
+  - rankID: 457
+    userName: Marcos
+    score: 32133
+  - rankID: 458
+    userName: player2023620194
+    score: 32028
+  - rankID: 459
+    userName: player2023482878
+    score: 31982
+  - rankID: 460
+    userName: Marta
+    score: 31912
+  - rankID: 461
+    userName: Felicia
+    score: 31900
+  - rankID: 462
+    userName: Ron
+    score: 31881
+  - rankID: 463
+    userName: Trust
+    score: 31734
+  - rankID: 464
+    userName: Melinda
+    score: 31617
+  - rankID: 465
+    userName: Asdasd
+    score: 31594
+  - rankID: 466
+    userName: player2021132536
+    score: 31535
+  - rankID: 467
+    userName: player2023559822
+    score: 31526
+  - rankID: 468
+    userName: Patti
+    score: 31512
+  - rankID: 469
+    userName: player2023284647
+    score: 31505
+  - rankID: 470
+    userName: Randy
+    score: 31493
+  - rankID: 471
+    userName: player2023508496
+    score: 31461
+  - rankID: 472
+    userName: Angelica
+    score: 31446
+  - rankID: 473
+    userName: spoilsme
+    score: 31387
+  - rankID: 474
+    userName: Floatingdream
+    score: 31358
+  - rankID: 475
+    userName: Pathosis
+    score: 31344
+  - rankID: 476
+    userName: player2022281870
+    score: 31308
+  - rankID: 477
+    userName: All
+    score: 31235
+  - rankID: 478
+    userName: Aubrey
+    score: 31099
+  - rankID: 479
+    userName: Cripple
+    score: 31069
+  - rankID: 480
+    userName: Roderick
+    score: 31051
+  - rankID: 481
+    userName: Krystal
+    score: 30907
+  - rankID: 482
+    userName: Samantha
+    score: 30837
+  - rankID: 483
+    userName: Bernard
+    score: 30824
+  - rankID: 484
+    userName: Annie
+    score: 30796
+  - rankID: 485
+    userName: Anne
+    score: 30776
+  - rankID: 486
+    userName: Thedistance
+    score: 30750
+  - rankID: 487
+    userName: Elias
+    score: 30506
+  - rankID: 488
+    userName: player2023263582
+    score: 30490
+  - rankID: 489
+    userName: Terry
+    score: 30443
+  - rankID: 490
+    userName: Harold
+    score: 30438
+  - rankID: 491
+    userName: Leo
+    score: 30344
+  - rankID: 492
+    userName: Humonud
+    score: 30306
+  - rankID: 493
+    userName: Juana
+    score: 30275
+  - rankID: 494
+    userName: Fengzidiandi
+    score: 30253
+  - rankID: 495
+    userName: Randolph
+    score: 30239
+  - rankID: 496
+    userName: player2022416241
+    score: 30201
+  - rankID: 497
+    userName: Llpzs
+    score: 30201
+  - rankID: 498
+    userName: Irony
+    score: 30050
+  - rankID: 499
+    userName: timeinahurry
+    score: 30008
+  - rankID: 500
+    userName: Jfujf
+    score: 29983
+  - rankID: 501
+    userName: Iris
+    score: 29959
+  - rankID: 502
+    userName: player2022441421
+    score: 29919
+  - rankID: 503
+    userName: Zawrwr
+    score: 29888
+  - rankID: 504
+    userName: Brent
+    score: 29860
+  - rankID: 505
+    userName: player2023259863
+    score: 29835
+  - rankID: 506
+    userName: Nel
+    score: 29821
+  - rankID: 507
+    userName: Huoyunxieshe
+    score: 29772
+  - rankID: 508
+    userName: Stacey
+    score: 29709
+  - rankID: 509
+    userName: Jeff
+    score: 29686
+  - rankID: 510
+    userName: player2023201157
+    score: 29685
+  - rankID: 511
+    userName: Daisy
+    score: 29655
+  - rankID: 512
+    userName: player2021344801
+    score: 29639
+  - rankID: 513
+    userName: Kalimo
+    score: 29581
+  - rankID: 514
+    userName: Estelle
+    score: 29497
+  - rankID: 515
+    userName: Freddie
+    score: 29415
+  - rankID: 516
+    userName: Tina
+    score: 29406
+  - rankID: 517
+    userName: Kathryn
+    score: 29394
+  - rankID: 518
+    userName: player2022768667
+    score: 29389
+  - rankID: 519
+    userName: Louise
+    score: 29380
+  - rankID: 520
+    userName: Melba
+    score: 29371
+  - rankID: 521
+    userName: Curtis
+    score: 29320
+  - rankID: 522
+    userName: Brooke
+    score: 29273
+  - rankID: 523
+    userName: Stanley
+    score: 29244
+  - rankID: 524
+    userName: player2021937219
+    score: 29170
+  - rankID: 525
+    userName: player2023506022
+    score: 29137
+  - rankID: 526
+    userName: Stephanie
+    score: 29078
+  - rankID: 527
+    userName: Lena
+    score: 28982
+  - rankID: 528
+    userName: player2022698714
+    score: 28972
+  - rankID: 529
+    userName: Zz
+    score: 28935
+  - rankID: 530
+    userName: Earlysummer
+    score: 28729
+  - rankID: 531
+    userName: player2021930557
+    score: 28657
+  - rankID: 532
+    userName: Velma
+    score: 28589
+  - rankID: 533
+    userName: player2021726161
+    score: 28365
+  - rankID: 534
+    userName: Susan
+    score: 28359
+  - rankID: 535
+    userName: Brendan
+    score: 28285
+  - rankID: 536
+    userName: Affair
+    score: 28216
+  - rankID: 537
+    userName: player2021148275
+    score: 28201
+  - rankID: 538
+    userName: Ian
+    score: 28130
+  - rankID: 539
+    userName: Nrrew
+    score: 28083
+  - rankID: 540
+    userName: Everett
+    score: 28004
+  - rankID: 541
+    userName: Priscilla
+    score: 27961
+  - rankID: 542
+    userName: Wanyuyufei
+    score: 27895
+  - rankID: 543
+    userName: Pam
+    score: 27828
+  - rankID: 544
+    userName: player2023228344
+    score: 27700
+  - rankID: 545
+    userName: player2022446899
+    score: 27662
+  - rankID: 546
+    userName: player2022794070
+    score: 27639
+  - rankID: 547
+    userName: Jerald
+    score: 27556
+  - rankID: 548
+    userName: Jimmie
+    score: 27520
+  - rankID: 549
+    userName: Ar
+    score: 27494
+  - rankID: 550
+    userName: Lila
+    score: 27492
+  - rankID: 551
+    userName: Rodolfo
+    score: 27478
+  - rankID: 552
+    userName: player2021278756
+    score: 27437
+  - rankID: 553
+    userName: Dawn
+    score: 27366
+  - rankID: 554
+    userName: Sarah
+    score: 27290
+  - rankID: 555
+    userName: Caleb
+    score: 27288
+  - rankID: 556
+    userName: Molly
+    score: 27231
+  - rankID: 557
+    userName: player2022188137
+    score: 27192
+  - rankID: 558
+    userName: player2023401608
+    score: 27117
+  - rankID: 559
+    userName: Rosemarie
+    score: 27112
+  - rankID: 560
+    userName: Qq
+    score: 26946
+  - rankID: 561
+    userName: Tonya
+    score: 26886
+  - rankID: 562
+    userName: player2023842775
+    score: 26883
+  - rankID: 563
+    userName: player202128568
+    score: 26824
+  - rankID: 564
+    userName: player2023104204
+    score: 26792
+  - rankID: 565
+    userName: Emotional
+    score: 26724
+  - rankID: 566
+    userName: Cameron
+    score: 26710
+  - rankID: 567
+    userName: Vigourgirl
+    score: 26694
+  - rankID: 568
+    userName: player2021202092
+    score: 26637
+  - rankID: 569
+    userName: player202326710
+    score: 26552
+  - rankID: 570
+    userName: player2021898625
+    score: 26468
+  - rankID: 571
+    userName: player2023314171
+    score: 26465
+  - rankID: 572
+    userName: player2023928374
+    score: 26438
+  - rankID: 573
+    userName: Theshadow
+    score: 26343
+  - rankID: 574
+    userName: wave
+    score: 26323
+  - rankID: 575
+    userName: Breeze
+    score: 26279
+  - rankID: 576
+    userName: player2021930810
+    score: 26218
+  - rankID: 577
+    userName: Darlene
+    score: 26217
+  - rankID: 578
+    userName: Zl
+    score: 26211
+  - rankID: 579
+    userName: Fred
+    score: 26101
+  - rankID: 580
+    userName: Grady
+    score: 26054
+  - rankID: 581
+    userName: player2023447873
+    score: 25991
+  - rankID: 582
+    userName: Peggy
+    score: 25988
+  - rankID: 583
+    userName: Patsy
+    score: 25920
+  - rankID: 584
+    userName: Diane
+    score: 25919
+  - rankID: 585
+    userName: player2023586788
+    score: 25884
+  - rankID: 586
+    userName: Janet
+    score: 25871
+  - rankID: 587
+    userName: player2023498603
+    score: 25847
+  - rankID: 588
+    userName: Jill
+    score: 25800
+  - rankID: 589
+    userName: player2021284338
+    score: 25760
+  - rankID: 590
+    userName: Leroy
+    score: 25705
+  - rankID: 591
+    userName: player2021761574
+    score: 25577
+  - rankID: 592
+    userName: Lisa
+    score: 25538
+  - rankID: 593
+    userName: player2022842479
+    score: 25520
+  - rankID: 594
+    userName: Marvin
+    score: 25438
+  - rankID: 595
+    userName: Darkmagic
+    score: 25379
+  - rankID: 596
+    userName: Toni
+    score: 25377
+  - rankID: 597
+    userName: Lucia
+    score: 25334
+  - rankID: 598
+    userName: Christie
+    score: 25082
+  - rankID: 599
+    userName: Survivor
+    score: 25071
+  - rankID: 600
+    userName: Barefaced
+    score: 24987
+  - rankID: 601
+    userName: Killone
+    score: 24856
+  - rankID: 602
+    userName: Milton
+    score: 24773
+  - rankID: 603
+    userName: Alexis
+    score: 24754
+  - rankID: 604
+    userName: Toby
+    score: 24700
+  - rankID: 605
+    userName: grace
+    score: 24682
+  - rankID: 606
+    userName: Rickey
+    score: 24439
+  - rankID: 607
+    userName: player2022544811
+    score: 24283
+  - rankID: 608
+    userName: Sandra
+    score: 24196
+  - rankID: 609
+    userName: player2022894189
+    score: 24080
+  - rankID: 610
+    userName: Floyd
+    score: 24028
+  - rankID: 611
+    userName: Karen
+    score: 23990
+  - rankID: 612
+    userName: Loren
+    score: 23945
+  - rankID: 613
+    userName: Sham
+    score: 23885
+  - rankID: 614
+    userName: Ooui
+    score: 23818
+  - rankID: 615
+    userName: Victor
+    score: 23806
+  - rankID: 616
+    userName: Gene
+    score: 23742
+  - rankID: 617
+    userName: Uuffoo
+    score: 23640
+  - rankID: 618
+    userName: player2023324750
+    score: 23607
+  - rankID: 619
+    userName: Kerry
+    score: 23586
+  - rankID: 620
+    userName: Facz
+    score: 23551
+  - rankID: 621
+    userName: San
+    score: 23508
+  - rankID: 622
+    userName: Timmy
+    score: 23482
+  - rankID: 623
+    userName: Fghfghfghfgh
+    score: 23414
+  - rankID: 624
+    userName: Mzplock
+    score: 23336
+  - rankID: 625
+    userName: Darinl
+    score: 23330
+  - rankID: 626
+    userName: Terrance
+    score: 23301
+  - rankID: 627
+    userName: player2022379684
+    score: 23258
+  - rankID: 628
+    userName: Myra
+    score: 23238
+  - rankID: 629
+    userName: Ksm
+    score: 23143
+  - rankID: 630
+    userName: Mercedes
+    score: 23140
+  - rankID: 631
+    userName: Micheal
+    score: 22941
+  - rankID: 632
+    userName: Bs
+    score: 22940
+  - rankID: 633
+    userName: Relieved
+    score: 22819
+  - rankID: 634
+    userName: player2022742549
+    score: 22778
+  - rankID: 635
+    userName: player2022938067
+    score: 22696
+  - rankID: 636
+    userName: Kimberly
+    score: 22617
+  - rankID: 637
+    userName: Nirvarna
+    score: 22507
+  - rankID: 638
+    userName: Dahuzi?
+    score: 22503
+  - rankID: 639
+    userName: player2021156211
+    score: 22495
+  - rankID: 640
+    userName: Kelli
+    score: 22485
+  - rankID: 641
+    userName: Bradford
+    score: 22393
+  - rankID: 642
+    userName: Tasha
+    score: 22392
+  - rankID: 643
+    userName: player2021375530
+    score: 22390
+  - rankID: 644
+    userName: player2023885637
+    score: 22363
+  - rankID: 645
+    userName: Dale
+    score: 22337
+  - rankID: 646
+    userName: Wuyehaojiao
+    score: 22322
+  - rankID: 647
+    userName: Eveae
+    score: 22308
+  - rankID: 648
+    userName: Joewas
+    score: 22279
+  - rankID: 649
+    userName: Carla
+    score: 22196
+  - rankID: 650
+    userName: player2022731166
+    score: 22188
+  - rankID: 651
+    userName: Christine
+    score: 22173
+  - rankID: 652
+    userName: Sabrina
+    score: 22172
+  - rankID: 653
+    userName: player2022503783
+    score: 22168
+  - rankID: 654
+    userName: Leonard
+    score: 22156
+  - rankID: 655
+    userName: player2021361638
+    score: 22118
+  - rankID: 656
+    userName: player2021447419
+    score: 22108
+  - rankID: 657
+    userName: Orville
+    score: 22049
+  - rankID: 658
+    userName: Witches
+    score: 21903
+  - rankID: 659
+    userName: Rolando
+    score: 21902
+  - rankID: 660
+    userName: Halo
+    score: 21876
+  - rankID: 661
+    userName: Marianne
+    score: 21848
+  - rankID: 662
+    userName: Donna
+    score: 21779
+  - rankID: 663
+    userName: player2021530905
+    score: 21728
+  - rankID: 664
+    userName: player2023989213
+    score: 21695
+  - rankID: 665
+    userName: player2021314419
+    score: 21632
+  - rankID: 666
+    userName: Eddie
+    score: 21625
+  - rankID: 667
+    userName: player2021540473
+    score: 21521
+  - rankID: 668
+    userName: player2022378849
+    score: 21491
+  - rankID: 669
+    userName: Marjorie
+    score: 21479
+  - rankID: 670
+    userName: player2022600028
+    score: 21456
+  - rankID: 671
+    userName: Ronnie
+    score: 21431
+  - rankID: 672
+    userName: Earl
+    score: 21385
+  - rankID: 673
+    userName: player2021808635
+    score: 21379
+  - rankID: 674
+    userName: player2023844678
+    score: 21377
+  - rankID: 675
+    userName: Infatuation
+    score: 21353
+  - rankID: 676
+    userName: Violet
+    score: 21324
+  - rankID: 677
+    userName: Perry
+    score: 21285
+  - rankID: 678
+    userName: Pall
+    score: 21257
+  - rankID: 679
+    userName: Gerardo
+    score: 21020
+  - rankID: 680
+    userName: player2022412757
+    score: 20804
+  - rankID: 681
+    userName: Javier
+    score: 20790
+  - rankID: 682
+    userName: Bllzzard
+    score: 20772
+  - rankID: 683
+    userName: Marc
+    score: 20747
+  - rankID: 684
+    userName: Sally
+    score: 20738
+  - rankID: 685
+    userName: Saul
+    score: 20680
+  - rankID: 686
+    userName: Rosie
+    score: 20595
+  - rankID: 687
+    userName: Ocooki
+    score: 20517
+  - rankID: 688
+    userName: Refuse
+    score: 20506
+  - rankID: 689
+    userName: player2023213131
+    score: 20496
+  - rankID: 690
+    userName: player2023530544
+    score: 20469
+  - rankID: 691
+    userName: player2023933844
+    score: 20272
+  - rankID: 692
+    userName: Muriel
+    score: 20245
+  - rankID: 693
+    userName: Juanita
+    score: 20245
+  - rankID: 694
+    userName: Devil
+    score: 20220
+  - rankID: 695
+    userName: Confession
+    score: 20207
+  - rankID: 696
+    userName: player2023774206
+    score: 20187
+  - rankID: 697
+    userName: player20228088
+    score: 20186
+  - rankID: 698
+    userName: player2023771686
+    score: 20165
+  - rankID: 699
+    userName: Badrogue
+    score: 20162
+  - rankID: 700
+    userName: player202326710
+    score: 19935
+  - rankID: 701
+    userName: Oscar
+    score: 19897
+  - rankID: 702
+    userName: player2021660406
+    score: 19886
+  - rankID: 703
+    userName: Thomas
+    score: 19609
+  - rankID: 704
+    userName: Duane
+    score: 19519
+  - rankID: 705
+    userName: Sherman
+    score: 19516
+  - rankID: 706
+    userName: Asda
+    score: 19496
+  - rankID: 707
+    userName: Jhilj
+    score: 19435
+  - rankID: 708
+    userName: Janie
+    score: 19369
+  - rankID: 709
+    userName: player2021113498
+    score: 19366
+  - rankID: 710
+    userName: Terry
+    score: 19257
+  - rankID: 711
+    userName: Tim
+    score: 19197
+  - rankID: 712
+    userName: Ismael
+    score: 19188
+  - rankID: 713
+    userName: Fire
+    score: 19039
+  - rankID: 714
+    userName: Xiaomao
+    score: 19035
+  - rankID: 715
+    userName: Aloof
+    score: 19026
+  - rankID: 716
+    userName: Kenneth
+    score: 18999
+  - rankID: 717
+    userName: Jake
+    score: 18926
+  - rankID: 718
+    userName: "Pandora\u30EBo"
+    score: 18908
+  - rankID: 719
+    userName: player2023135669
+    score: 18889
+  - rankID: 720
+    userName: Fannie
+    score: 18848
+  - rankID: 721
+    userName: player2021347207
+    score: 18769
+  - rankID: 722
+    userName: Nellie
+    score: 18766
+  - rankID: 723
+    userName: Gary
+    score: 18714
+  - rankID: 724
+    userName: Debbie
+    score: 18711
+  - rankID: 725
+    userName: Courtney
+    score: 18677
+  - rankID: 726
+    userName: player2021110592
+    score: 18571
+  - rankID: 727
+    userName: Lynne
+    score: 18511
+  - rankID: 728
+    userName: Hidingwho
+    score: 18486
+  - rankID: 729
+    userName: Shannon
+    score: 18474
+  - rankID: 730
+    userName: Rhonda
+    score: 18390
+  - rankID: 731
+    userName: player2023302738
+    score: 18324
+  - rankID: 732
+    userName: Insane
+    score: 18229
+  - rankID: 733
+    userName: player2023217775
+    score: 18216
+  - rankID: 734
+    userName: Krista
+    score: 18206
+  - rankID: 735
+    userName: Sadasdd
+    score: 18039
+  - rankID: 736
+    userName: player2021698198
+    score: 18016
+  - rankID: 737
+    userName: Sara
+    score: 17938
+  - rankID: 738
+    userName: Teri
+    score: 17924
+  - rankID: 739
+    userName: player2022106766
+    score: 17911
+  - rankID: 740
+    userName: Judith
+    score: 17849
+  - rankID: 741
+    userName: Rikuanhuo
+    score: 17828
+  - rankID: 742
+    userName: player2021418466
+    score: 17822
+  - rankID: 743
+    userName: player2021385970
+    score: 17809
+  - rankID: 744
+    userName: Dora
+    score: 17792
+  - rankID: 745
+    userName: Petheaven
+    score: 17790
+  - rankID: 746
+    userName: Jonathan
+    score: 17680
+  - rankID: 747
+    userName: Demag
+    score: 17667
+  - rankID: 748
+    userName: Julius
+    score: 17607
+  - rankID: 749
+    userName: player2023492192
+    score: 17563
+  - rankID: 750
+    userName: Polite
+    score: 17527
+  - rankID: 751
+    userName: Sey
+    score: 17512
+  - rankID: 752
+    userName: Sue
+    score: 17481
+  - rankID: 753
+    userName: Harriet
+    score: 17473
+  - rankID: 754
+    userName: Alan
+    score: 17243
+  - rankID: 755
+    userName: player20214916
+    score: 17181
+  - rankID: 756
+    userName: Olive
+    score: 17174
+  - rankID: 757
+    userName: player202282365
+    score: 17142
+  - rankID: 758
+    userName: Gamelife
+    score: 17109
+  - rankID: 759
+    userName: player2021280805
+    score: 17083
+  - rankID: 760
+    userName: player2021976526
+    score: 17058
+  - rankID: 761
+    userName: overdoes
+    score: 17042
+  - rankID: 762
+    userName: Rhythm
+    score: 16898
+  - rankID: 763
+    userName: Roy
+    score: 16779
+  - rankID: 764
+    userName: Huhu
+    score: 16718
+  - rankID: 765
+    userName: player202281406
+    score: 16576
+  - rankID: 766
+    userName: player2023645882
+    score: 16507
+  - rankID: 767
+    userName: Udead
+    score: 16407
+  - rankID: 768
+    userName: Willing
+    score: 16333
+  - rankID: 769
+    userName: Traci
+    score: 16305
+  - rankID: 770
+    userName: Terrence
+    score: 16228
+  - rankID: 771
+    userName: Elk
+    score: 16216
+  - rankID: 772
+    userName: Jerry
+    score: 16157
+  - rankID: 773
+    userName: Mack
+    score: 16132
+  - rankID: 774
+    userName: player202128899
+    score: 16077
+  - rankID: 775
+    userName: player2023254806
+    score: 16023
+  - rankID: 776
+    userName: Suzuka
+    score: 15978
+  - rankID: 777
+    userName: Misty
+    score: 15957
+  - rankID: 778
+    userName: RedLips
+    score: 15956
+  - rankID: 779
+    userName: Marco
+    score: 15929
+  - rankID: 780
+    userName: Erick
+    score: 15881
+  - rankID: 781
+    userName: Falling-Down
+    score: 15863
+  - rankID: 782
+    userName: player2021267727
+    score: 15859
+  - rankID: 783
+    userName: Ethel
+    score: 15839
+  - rankID: 784
+    userName: player2021356694
+    score: 15836
+  - rankID: 785
+    userName: Susie
+    score: 15813
+  - rankID: 786
+    userName: Salvatore
+    score: 15810
+  - rankID: 787
+    userName: Tame
+    score: 15721
+  - rankID: 788
+    userName: player2023918539
+    score: 15711
+  - rankID: 789
+    userName: player202140020
+    score: 15678
+  - rankID: 790
+    userName: player2022197146
+    score: 15647
+  - rankID: 791
+    userName: Fdgfdgdfg
+    score: 15493
+  - rankID: 792
+    userName: player202189533
+    score: 15470
+  - rankID: 793
+    userName: player2022786675
+    score: 15412
+  - rankID: 794
+    userName: Tyler
+    score: 15401
+  - rankID: 795
+    userName: player2023279795
+    score: 15339
+  - rankID: 796
+    userName: Roosevelt
+    score: 15137
+  - rankID: 797
+    userName: Bethany
+    score: 15050
+  - rankID: 798
+    userName: Werq
+    score: 15031
+  - rankID: 799
+    userName: player2022347116
+    score: 15015
+  - rankID: 800
+    userName: Omar
+    score: 14479
+  - rankID: 801
+    userName: player202186525
+    score: 14451
+  - rankID: 802
+    userName: Beatrice
+    score: 14449
+  - rankID: 803
+    userName: Sophie
+    score: 14416
+  - rankID: 804
+    userName: Gfbcv
+    score: 14348
+  - rankID: 805
+    userName: player2023150944
+    score: 14345
+  - rankID: 806
+    userName: Tony
+    score: 14333
+  - rankID: 807
+    userName: Mutu
+    score: 14298
+  - rankID: 808
+    userName: Janice
+    score: 14141
+  - rankID: 809
+    userName: player2021940874
+    score: 14120
+  - rankID: 810
+    userName: Joseph
+    score: 14102
+  - rankID: 811
+    userName: Erika
+    score: 14041
+  - rankID: 812
+    userName: Darren
+    score: 14034
+  - rankID: 813
+    userName: Tutubow
+    score: 14031
+  - rankID: 814
+    userName: player2023447875
+    score: 14011
+  - rankID: 815
+    userName: player2022264620
+    score: 13975
+  - rankID: 816
+    userName: ender
+    score: 13944
+  - rankID: 817
+    userName: Tommy
+    score: 13822
+  - rankID: 818
+    userName: Dean
+    score: 13815
+  - rankID: 819
+    userName: player2021183403
+    score: 13687
+  - rankID: 820
+    userName: Austin
+    score: 13681
+  - rankID: 821
+    userName: Vortex
+    score: 13570
+  - rankID: 822
+    userName: Galaxy
+    score: 13570
+  - rankID: 823
+    userName: LikeOldDream
+    score: 13504
+  - rankID: 824
+    userName: Deborah
+    score: 13496
+  - rankID: 825
+    userName: Sam
+    score: 13494
+  - rankID: 826
+    userName: rostiute
+    score: 13481
+  - rankID: 827
+    userName: Joanna
+    score: 13462
+  - rankID: 828
+    userName: Phyllis
+    score: 13324
+  - rankID: 829
+    userName: player2022232745
+    score: 13278
+  - rankID: 830
+    userName: Hisheart
+    score: 13277
+  - rankID: 831
+    userName: shakoil
+    score: 13267
+  - rankID: 832
+    userName: Irma
+    score: 13256
+  - rankID: 833
+    userName: melancholy
+    score: 13237
+  - rankID: 834
+    userName: player2022311538
+    score: 13081
+  - rankID: 835
+    userName: Tracy
+    score: 12955
+  - rankID: 836
+    userName: player2021280425
+    score: 12952
+  - rankID: 837
+    userName: Wandering
+    score: 12930
+  - rankID: 838
+    userName: Burning
+    score: 12930
+  - rankID: 839
+    userName: player2022905028
+    score: 12808
+  - rankID: 840
+    userName: player2022137278
+    score: 12799
+  - rankID: 841
+    userName: Magicboy
+    score: 12772
+  - rankID: 842
+    userName: Dying
+    score: 12762
+  - rankID: 843
+    userName: player2022247016
+    score: 12748
+  - rankID: 844
+    userName: Jartty
+    score: 12735
+  - rankID: 845
+    userName: Stewart
+    score: 12730
+  - rankID: 846
+    userName: Neil
+    score: 12676
+  - rankID: 847
+    userName: Amanda
+    score: 12664
+  - rankID: 848
+    userName: Mary
+    score: 12627
+  - rankID: 849
+    userName: Adzuki
+    score: 12614
+  - rankID: 850
+    userName: Constance
+    score: 12597
+  - rankID: 851
+    userName: cardiac
+    score: 12586
+  - rankID: 852
+    userName: Annette
+    score: 12585
+  - rankID: 853
+    userName: player2022711877
+    score: 12563
+  - rankID: 854
+    userName: Johanna
+    score: 12539
+  - rankID: 855
+    userName: Lynette
+    score: 12443
+  - rankID: 856
+    userName: Pat
+    score: 12335
+  - rankID: 857
+    userName: Hannah
+    score: 12323
+  - rankID: 858
+    userName: player2023695153
+    score: 12296
+  - rankID: 859
+    userName: Tom
+    score: 12190
+  - rankID: 860
+    userName: Pepsicola
+    score: 12173
+  - rankID: 861
+    userName: Shirley
+    score: 12011
+  - rankID: 862
+    userName: Grwefds
+    score: 12001
+  - rankID: 863
+    userName: Tolerance
+    score: 11845
+  - rankID: 864
+    userName: Mamie
+    score: 11769
+  - rankID: 865
+    userName: orangejuice
+    score: 11758
+  - rankID: 866
+    userName: Leslie
+    score: 11687
+  - rankID: 867
+    userName: player2023973830
+    score: 11645
+  - rankID: 868
+    userName: Sheldon
+    score: 11643
+  - rankID: 869
+    userName: Badyoung
+    score: 11595
+  - rankID: 870
+    userName: player2021815517
+    score: 11579
+  - rankID: 871
+    userName: Cassandra
+    score: 11510
+  - rankID: 872
+    userName: Beth
+    score: 11510
+  - rankID: 873
+    userName: Galaxy
+    score: 11467
+  - rankID: 874
+    userName: player2021947466
+    score: 11354
+  - rankID: 875
+    userName: Patty
+    score: 11241
+  - rankID: 876
+    userName: Caonimei
+    score: 11150
+  - rankID: 877
+    userName: Flora
+    score: 11020
+  - rankID: 878
+    userName: Joyce
+    score: 11003
+  - rankID: 879
+    userName: Angel
+    score: 10892
+  - rankID: 880
+    userName: Abracadabra
+    score: 10880
+  - rankID: 881
+    userName: Nichole
+    score: 10766
+  - rankID: 882
+    userName: Lotus
+    score: 10749
+  - rankID: 883
+    userName: player2023741376
+    score: 10733
+  - rankID: 884
+    userName: Finger
+    score: 10730
+  - rankID: 885
+    userName: Victoria
+    score: 10670
+  - rankID: 886
+    userName: player2021626417
+    score: 10669
+  - rankID: 887
+    userName: Wade
+    score: 10509
+  - rankID: 888
+    userName: Ramon
+    score: 10478
+  - rankID: 889
+    userName: player2022683563
+    score: 10440
+  - rankID: 890
+    userName: player2021878455
+    score: 10407
+  - rankID: 891
+    userName: Keith
+    score: 10338
+  - rankID: 892
+    userName: Huawei
+    score: 10107
+  - rankID: 893
+    userName: player2023468985
+    score: 10099
+  - rankID: 894
+    userName: player2022106029
+    score: 10097
+  - rankID: 895
+    userName: Dianne
+    score: 10083
+  - rankID: 896
+    userName: Edwin
+    score: 10077
+  - rankID: 897
+    userName: player2021638661
+    score: 10077
+  - rankID: 898
+    userName: Marion
+    score: 10024
+  - rankID: 899
+    userName: player2022628879
+    score: 9930
+  - rankID: 900
+    userName: Gted
+    score: 9913
+  - rankID: 901
+    userName: player2021923461
+    score: 9862
+  - rankID: 902
+    userName: Vurtnex
+    score: 9835
+  - rankID: 903
+    userName: Claire
+    score: 9786
+  - rankID: 904
+    userName: Leslie
+    score: 9766
+  - rankID: 905
+    userName: Shaun
+    score: 9754
+  - rankID: 906
+    userName: Jaime
+    score: 9725
+  - rankID: 907
+    userName: Wendy
+    score: 9691
+  - rankID: 908
+    userName: player2022814370
+    score: 9688
+  - rankID: 909
+    userName: player2023962824
+    score: 9594
+  - rankID: 910
+    userName: player2021977286
+    score: 9575
+  - rankID: 911
+    userName: Daddy
+    score: 9572
+  - rankID: 912
+    userName: player2023923861
+    score: 9556
+  - rankID: 913
+    userName: Edmund
+    score: 9556
+  - rankID: 914
+    userName: Ruben
+    score: 9548
+  - rankID: 915
+    userName: Laverne
+    score: 9497
+  - rankID: 916
+    userName: player2023127317
+    score: 9447
+  - rankID: 917
+    userName: Surplus
+    score: 9364
+  - rankID: 918
+    userName: Jhuthy
+    score: 9311
+  - rankID: 919
+    userName: Mindy
+    score: 9241
+  - rankID: 920
+    userName: Akilleuz
+    score: 9207
+  - rankID: 921
+    userName: Viola
+    score: 9134
+  - rankID: 922
+    userName: Kristine
+    score: 9090
+  - rankID: 923
+    userName: Tami
+    score: 8859
+  - rankID: 924
+    userName: Glenn
+    score: 8694
+  - rankID: 925
+    userName: Shellofaman
+    score: 8647
+  - rankID: 926
+    userName: player2021413420
+    score: 8524
+  - rankID: 927
+    userName: player2022537355
+    score: 8440
+  - rankID: 928
+    userName: Cindy
+    score: 8314
+  - rankID: 929
+    userName: player2023548816
+    score: 8200
+  - rankID: 930
+    userName: Karl
+    score: 8163
+  - rankID: 931
+    userName: Johnny
+    score: 8109
+  - rankID: 932
+    userName: player2023170297
+    score: 8078
+  - rankID: 933
+    userName: Jodi
+    score: 8072
+  - rankID: 934
+    userName: Alejandro
+    score: 7991
+  - rankID: 935
+    userName: Mimi
+    score: 7980
+  - rankID: 936
+    userName: Joann
+    score: 7947
+  - rankID: 937
+    userName: player202243746
+    score: 7927
+  - rankID: 938
+    userName: Tanya
+    score: 7919
+  - rankID: 939
+    userName: Eitrish
+    score: 7917
+  - rankID: 940
+    userName: Shelley
+    score: 7880
+  - rankID: 941
+    userName: player2021796423
+    score: 7870
+  - rankID: 942
+    userName: Preston
+    score: 7865
+  - rankID: 943
+    userName: Heart
+    score: 7835
+  - rankID: 944
+    userName: cowardice
+    score: 7833
+  - rankID: 945
+    userName: Ross
+    score: 7779
+  - rankID: 946
+    userName: Ricky
+    score: 7748
+  - rankID: 947
+    userName: Catherine
+    score: 7715
+  - rankID: 948
+    userName: Antonio
+    score: 7687
+  - rankID: 949
+    userName: Harry
+    score: 7675
+  - rankID: 950
+    userName: Shane
+    score: 7656
+  - rankID: 951
+    userName: Emma
+    score: 7472
+  - rankID: 952
+    userName: Ellen
+    score: 7442
+  - rankID: 953
+    userName: GIitter
+    score: 7387
+  - rankID: 954
+    userName: Millerwolf
+    score: 7368
+  - rankID: 955
+    userName: Bonnie
+    score: 7366
+  - rankID: 956
+    userName: Janis
+    score: 7282
+  - rankID: 957
+    userName: player2023764792
+    score: 7127
+  - rankID: 958
+    userName: Multilover
+    score: 7124
+  - rankID: 959
+    userName: Devil
+    score: 6670
+  - rankID: 960
+    userName: Dana
+    score: 6503
+  - rankID: 961
+    userName: stabbed
+    score: 6485
+  - rankID: 962
+    userName: Cary
+    score: 6411
+  - rankID: 963
+    userName: Hazel
+    score: 6401
+  - rankID: 964
+    userName: player2023117923
+    score: 6390
+  - rankID: 965
+    userName: Emilio
+    score: 6363
+  - rankID: 966
+    userName: Perry
+    score: 6343
+  - rankID: 967
+    userName: Eternal
+    score: 6287
+  - rankID: 968
+    userName: Ramiro
+    score: 6274
+  - rankID: 969
+    userName: Erica
+    score: 6253
+  - rankID: 970
+    userName: Big
+    score: 6179
+  - rankID: 971
+    userName: player2021308750
+    score: 6100
+  - rankID: 972
+    userName: player2022513651
+    score: 6075
+  - rankID: 973
+    userName: Sandy
+    score: 6017
+  - rankID: 974
+    userName: Kathleen
+    score: 5944
+  - rankID: 975
+    userName: player2023307746
+    score: 5916
+  - rankID: 976
+    userName: Simon
+    score: 5912
+  - rankID: 977
+    userName: Clyde
+    score: 5903
+  - rankID: 978
+    userName: Demon
+    score: 5898
+  - rankID: 979
+    userName: Asdfaa
+    score: 5862
+  - rankID: 980
+    userName: player2022728958
+    score: 5740
+  - rankID: 981
+    userName: Nightmare
+    score: 5669
+  - rankID: 982
+    userName: Gretchen
+    score: 5650
+  - rankID: 983
+    userName: Deceive
+    score: 5609
+  - rankID: 984
+    userName: Anna
+    score: 5603
+  - rankID: 985
+    userName: player2021257603
+    score: 5583
+  - rankID: 986
+    userName: Merle
+    score: 5571
+  - rankID: 987
+    userName: Ira
+    score: 5569
+  - rankID: 988
+    userName: Maria
+    score: 5504
+  - rankID: 989
+    userName: Woc
+    score: 5489
+  - rankID: 990
+    userName: Qazwsx
+    score: 5472
+  - rankID: 991
+    userName: Jeffery
+    score: 5434
+  - rankID: 992
+    userName: Alonso
+    score: 5348
+  - rankID: 993
+    userName: player2021939011
+    score: 5313
+  - rankID: 994
+    userName: Heidi
+    score: 5254
+  - rankID: 995
+    userName: player2023180243
+    score: 5240
+  - rankID: 996
+    userName: Brandi
+    score: 5183
+  - rankID: 997
+    userName: Jeffrey
+    score: 5165
+  - rankID: 998
+    userName: Ryan
+    score: 5016
+  - rankID: 999
+    userName: player2022260622
+    score: 4975
+  - rankID: 1000
+    userName: player2023742870
+    score: 4847
+  - rankID: 1001
+    userName: player2023767818
+    score: 4844
+  - rankID: 1002
+    userName: Marion
+    score: 4804
+  - rankID: 1003
+    userName: Clay
+    score: 4706
+  - rankID: 1004
+    userName: player2022994544
+    score: 4686
+  - rankID: 1005
+    userName: Terminator
+    score: 4668
+  - rankID: 1006
+    userName: Niuyeye
+    score: 4507
+  - rankID: 1007
+    userName: Anita
+    score: 4487
+  - rankID: 1008
+    userName: Faye
+    score: 4387
+  - rankID: 1009
+    userName: Samuel
+    score: 4312
+  - rankID: 1010
+    userName: player2022599479
+    score: 4296
+  - rankID: 1011
+    userName: Carol
+    score: 4281
+  - rankID: 1012
+    userName: Kristopher
+    score: 4232
+  - rankID: 1013
+    userName: Abracadabra
+    score: 4231
+  - rankID: 1014
+    userName: Jessie
+    score: 4201
+  - rankID: 1015
+    userName: Jimmy
+    score: 4175
+  - rankID: 1016
+    userName: player2022964394
+    score: 4019
+  - rankID: 1017
+    userName: Kneer
+    score: 3971
+  - rankID: 1018
+    userName: Jody
+    score: 3952
+  - rankID: 1019
+    userName: Michelle
+    score: 3922
+  - rankID: 1020
+    userName: Jeff
+    score: 3912
+  - rankID: 1021
+    userName: Olimonyb
+    score: 3900
+  - rankID: 1022
+    userName: player2023329614
+    score: 3873
+  - rankID: 1023
+    userName: Rodney
+    score: 3726
+  - rankID: 1024
+    userName: Perry
+    score: 3568
+  - rankID: 1025
+    userName: Christopher
+    score: 3531
+  - rankID: 1026
+    userName: Baib
+    score: 3461
+  - rankID: 1027
+    userName: defect
+    score: 3409
+  - rankID: 1028
+    userName: Louis
+    score: 3330
+  - rankID: 1029
+    userName: Wqedsf
+    score: 3219
+  - rankID: 1030
+    userName: player202268532
+    score: 3200
+  - rankID: 1031
+    userName: player2023486645
+    score: 3174
+  - rankID: 1032
+    userName: player2022524399
+    score: 3107
+  - rankID: 1033
+    userName: player2023918137
+    score: 3101
+  - rankID: 1034
+    userName: player2023581397
+    score: 3070
+  - rankID: 1035
+    userName: Clavicle
+    score: 3062
+  - rankID: 1036
+    userName: Audrey
+    score: 2763
+  - rankID: 1037
+    userName: Hope
+    score: 2662
+  - rankID: 1038
+    userName: player202191271
+    score: 2626
+  - rankID: 1039
+    userName: Caroline
+    score: 2622
+  - rankID: 1040
+    userName: Pentakill
+    score: 2592
+  - rankID: 1041
+    userName: Jorge
+    score: 2555
+  - rankID: 1042
+    userName: Ken
+    score: 2487
+  - rankID: 1043
+    userName: Custom
+    score: 2478
+  - rankID: 1044
+    userName: player202337674
+    score: 2419
+  - rankID: 1045
+    userName: player2021918018
+    score: 2410
+  - rankID: 1046
+    userName: player2022752834
+    score: 2381
+  - rankID: 1047
+    userName: Floating
+    score: 2259
+  - rankID: 1048
+    userName: player2023649529
+    score: 2209
+  - rankID: 1049
+    userName: Hilda
+    score: 2190
+  - rankID: 1050
+    userName: player2023585620
+    score: 2173
+  - rankID: 1051
+    userName: Shari
+    score: 2169
+  - rankID: 1052
+    userName: Eric
+    score: 2083
+  - rankID: 1053
+    userName: player202113090
+    score: 2057
+  - rankID: 1054
+    userName: player2023990385
+    score: 1978
+  - rankID: 1055
+    userName: Iuy
+    score: 1972
+  - rankID: 1056
+    userName: Ddffss
+    score: 1899
+  - rankID: 1057
+    userName: player2023601521
+    score: 1895
+  - rankID: 1058
+    userName: Amasi
+    score: 1847
+  - rankID: 1059
+    userName: Beofnoimportance
+    score: 1818
+  - rankID: 1060
+    userName: Yourmotherb
+    score: 1793
+  - rankID: 1061
+    userName: Amnesia
+    score: 1715
+  - rankID: 1062
+    userName: Vurtnetion
+    score: 1635
+  - rankID: 1063
+    userName: Elsa
+    score: 1597
+  - rankID: 1064
+    userName: overdoes
+    score: 1540
+  - rankID: 1065
+    userName: Gwen
+    score: 1509
+  - rankID: 1066
+    userName: Ta
+    score: 1508
+  - rankID: 1067
+    userName: nobody
+    score: 1450
+  - rankID: 1068
+    userName: Grace
+    score: 1420
+  - rankID: 1069
+    userName: Safdfs
+    score: 1397
+  - rankID: 1070
+    userName: Cecil
+    score: 1326
+  - rankID: 1071
+    userName: Maggie
+    score: 1311
+  - rankID: 1072
+    userName: Melune
+    score: 1301
+  - rankID: 1073
+    userName: Tuxx
+    score: 1235
+  - rankID: 1074
+    userName: player2021434773
+    score: 1157
+  - rankID: 1075
+    userName: player2021193598
+    score: 1131
+  - rankID: 1076
+    userName: Goobsb
+    score: 1061
+  - rankID: 1077
+    userName: Sharon
+    score: 1027
+  - rankID: 1078
+    userName: Xiaomi
+    score: 960
+  - rankID: 1079
+    userName: Sheri
+    score: 926
+  - rankID: 1080
+    userName: Frostbolt
+    score: 921
+  - rankID: 1081
+    userName: player2023683584
+    score: 898
+  - rankID: 1082
+    userName: Vortex
+    score: 840
+  - rankID: 1083
+    userName: Zs
+    score: 734
+  - rankID: 1084
+    userName: Das
+    score: 627
+  - rankID: 1085
+    userName: Wretch
+    score: 593
+  - rankID: 1086
+    userName: player2022825405
+    score: 552
+  - rankID: 1087
+    userName: Tuoba
+    score: 495
+  - rankID: 1088
+    userName: player2023516355
+    score: 494
+  - rankID: 1089
+    userName: James
+    score: 494
+  - rankID: 1090
+    userName: player2022668475
+    score: 492
+  - rankID: 1091
+    userName: player2023228292
+    score: 475
+  - rankID: 1092
+    userName: Emptyjoy
+    score: 462
+  - rankID: 1093
+    userName: Lm
+    score: 461
+  - rankID: 1094
+    userName: player2021534698
+    score: 439
+  - rankID: 1095
+    userName: Tracy
+    score: 438
+  - rankID: 1096
+    userName: player2021171685
+    score: 438
+  - rankID: 1097
+    userName: Crystal
+    score: 436
+  - rankID: 1098
+    userName: Destiny
+    score: 433
+  - rankID: 1099
+    userName: player2023348847
+    score: 431
+  - rankID: 1100
+    userName: Boyd
+    score: 428
+  - rankID: 1101
+    userName: Ivan
+    score: 421
+  - rankID: 1102
+    userName: Andersen
+    score: 399
+  - rankID: 1103
+    userName: Dustin
+    score: 399
+  - rankID: 1104
+    userName: "Pandora\u30EBo"
+    score: 396
+  - rankID: 1105
+    userName: Jeremiah
+    score: 396
+  - rankID: 1106
+    userName: player2022687548
+    score: 389
+  - rankID: 1107
+    userName: player2022128084
+    score: 387
+  - rankID: 1108
+    userName: Myrtle
+    score: 384
+  - rankID: 1109
+    userName: Grant
+    score: 383
+  - rankID: 1110
+    userName: Miqi
+    score: 383
+  - rankID: 1111
+    userName: player2023725202
+    score: 382
+  - rankID: 1112
+    userName: player2023252323
+    score: 382
+  - rankID: 1113
+    userName: player202147288
+    score: 376
+  - rankID: 1114
+    userName: Ah
+    score: 370
+  - rankID: 1115
+    userName: Ts
+    score: 368
+  - rankID: 1116
+    userName: player2022671208
+    score: 363
+  - rankID: 1117
+    userName: player2021545201
+    score: 354
+  - rankID: 1118
+    userName: Sophia
+    score: 347
+  - rankID: 1119
+    userName: player2023899443
+    score: 345
+  - rankID: 1120
+    userName: Pate
+    score: 344
+  - rankID: 1121
+    userName: player2023264252
+    score: 341
+  - rankID: 1122
+    userName: Xuema
+    score: 334
+  - rankID: 1123
+    userName: player2023514497
+    score: 329
+  - rankID: 1124
+    userName: Wilfred
+    score: 322
+  - rankID: 1125
+    userName: Shawna
+    score: 318
+  - rankID: 1126
+    userName: Chris
+    score: 316
+  - rankID: 1127
+    userName: Terri
+    score: 312
+  - rankID: 1128
+    userName: Darnell
+    score: 311
+  - rankID: 1129
+    userName: Gcz
+    score: 303
+  - rankID: 1130
+    userName: Sylvia
+    score: 303
+  - rankID: 1131
+    userName: Norma
+    score: 291
+  - rankID: 1132
+    userName: player2021761276
+    score: 290
+  - rankID: 1133
+    userName: Amelia
+    score: 290
+  - rankID: 1134
+    userName: VeryStupid
+    score: 287
+  - rankID: 1135
+    userName: Sensitive
+    score: 273
+  - rankID: 1136
+    userName: player2023395889
+    score: 267
+  - rankID: 1137
+    userName: player2022974013
+    score: 266
+  - rankID: 1138
+    userName: Denise
+    score: 258
+  - rankID: 1139
+    userName: Latoya
+    score: 257
+  - rankID: 1140
+    userName: Er
+    score: 254
+  - rankID: 1141
+    userName: player2021126067
+    score: 253
+  - rankID: 1142
+    userName: Essie
+    score: 251
+  - rankID: 1143
+    userName: Drew
+    score: 248
+  - rankID: 1144
+    userName: Corey
+    score: 244
+  - rankID: 1145
+    userName: Johnnie
+    score: 243
+  - rankID: 1146
+    userName: Yandere
+    score: 238
+  - rankID: 1147
+    userName: Asfef
+    score: 230
+  - rankID: 1148
+    userName: Percy
+    score: 227
+  - rankID: 1149
+    userName: Rene
+    score: 225
+  - rankID: 1150
+    userName: Florence
+    score: 224
+  - rankID: 1151
+    userName: Jermaine
+    score: 222
+  - rankID: 1152
+    userName: Apollo
+    score: 217
+  - rankID: 1153
+    userName: Lamar
+    score: 216
+  - rankID: 1154
+    userName: Lionel
+    score: 215
+  - rankID: 1155
+    userName: Leideigaga
+    score: 214
+  - rankID: 1156
+    userName: Valor
+    score: 212
+  - rankID: 1157
+    userName: Mask
+    score: 209
+  - rankID: 1158
+    userName: Jared
+    score: 208
+  - rankID: 1159
+    userName: Tiy
+    score: 202
+  - rankID: 1160
+    userName: Alone
+    score: 200
+  - rankID: 1161
+    userName: Nidaye
+    score: 181
+  - rankID: 1162
+    userName: Jackie
+    score: 179
+  - rankID: 1163
+    userName: Lonely
+    score: 169
+  - rankID: 1164
+    userName: SuperJunior
+    score: 168
+  - rankID: 1165
+    userName: Survivor
+    score: 164
+  - rankID: 1166
+    userName: Dfada
+    score: 162
+  - rankID: 1167
+    userName: Lucky
+    score: 159
+  - rankID: 1168
+    userName: Max
+    score: 154
+  - rankID: 1169
+    userName: Dcant
+    score: 147
+  - rankID: 1170
+    userName: player2023593481
+    score: 144
+  - rankID: 1171
+    userName: player2022134690
+    score: 143
+  - rankID: 1172
+    userName: Jody
+    score: 135
+  - rankID: 1173
+    userName: Alcaw
+    score: 125
+  - rankID: 1174
+    userName: player2021717354
+    score: 122
+  - rankID: 1175
+    userName: Ora
+    score: 119
+  - rankID: 1176
+    userName: player202165520
+    score: 110
+  - rankID: 1177
+    userName: Howard
+    score: 105
+  - rankID: 1178
+    userName: orangejuice
+    score: 86
+  - rankID: 1179
+    userName: player2021774431
+    score: 74
+  - rankID: 1180
+    userName: Angela
+    score: 55
+  - rankID: 1181
+    userName: Shengh
+    score: 48
+  - rankID: 1182
+    userName: Marguerite
+    score: 46
+  - rankID: 1183
+    userName: Horace
+    score: 44
+  - rankID: 1184
+    userName: Zeus
+    score: 41
+  - rankID: 1185
+    userName: player2021107351
+    score: 37
+  - rankID: 1186
+    userName: player2023106248
+    score: 36
+  - rankID: 1187
+    userName: player20221097
+    score: 35
+  - rankID: 1188
+    userName: Mattie
+    score: 32
+  - rankID: 1189
+    userName: Jackie
+    score: 27
+  - rankID: 1190
+    userName: River
+    score: 23
+  - rankID: 1191
+    userName: player2023563528
+    score: 23
+  - rankID: 1192
+    userName: Justin
+    score: 17
+  - rankID: 1193
+    userName: Beobsessed
+    score: 17
+  - rankID: 1194
+    userName: player2022280297
+    score: 15
+  - rankID: 1195
+    userName: Nonfish
+    score: 13
+  - rankID: 1196
+    userName: Jonsnow
+    score: 11
+  - rankID: 1197
+    userName: Delete
+    score: 8
+  - rankID: 1198
+    userName: player2022747597
+    score: 7
+  - rankID: 1199
+    userName: player2022104795
+    score: 6
+  - rankID: 1200
+    userName: Vera
+    score: 1

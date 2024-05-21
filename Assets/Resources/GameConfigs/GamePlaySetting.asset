@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28e205dc7daba448cb824b89f0778134, type: 3}
+  m_Name: GamePlaySetting
+  m_EditorClassIdentifier: 
+  colSizeMax: 3
+  deptSizeMax: 3
+  tileSizeX: 1.5
+  tileSizeY: 2.25
+  tileSizeZ: 2.25
+  openChestNumber: 1500
+  luckySpinProgressMax: 10
+  rewardVictoryProgressMax: 9
+  rankStep: 100
+  rankRewardBonus: 5
+  rankingSize: 100
+  rewardPackage1:
+  - rewardType: 0
+    rewardValue: 10
+  - rewardType: 1
+    rewardValue: 1
+  rewardPackage2:
+  - rewardType: 0
+    rewardValue: 20
+  - rewardType: 1
+    rewardValue: 1
+  - rewardType: 2
+    rewardValue: 1
+  rewardPackage3:
+  - rewardType: 0
+    rewardValue: 30
+  - rewardType: 1
+    rewardValue: 1
+  - rewardType: 2
+    rewardValue: 1
+  - rewardType: 3
+    rewardValue: 1
+  openChestReward:
+  - rewardType: 0
+    rewardValue: 50
+  unlockStampReward:
+  - rewardType: 0
+    rewardValue: 200
+  - rewardType: 1
+    rewardValue: 2
+  - rewardType: 2
+    rewardValue: 2
+  - rewardType: 3
+    rewardValue: 2
